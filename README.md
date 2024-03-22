@@ -11,17 +11,17 @@
 
   </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-**༒BRAYO™༒**-black.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝑴𝒂𝑿𝒘𝒓𝒍𝒅🌎-black.svg?style=for-the-badge&logo=github"></a>
 
 
 </p>
 
 
-***TRIBAL TECH HUB 💫***
+***𝑴𝒂𝑿𝒘𝒓𝒍𝒅🌎🌎𝑴𝒆𝒎𝒆𝒔 𝑲𝒆𝒏𝒚𝒂***
 
 ## DEVELOPER
 
-  BRAYO -   [WHATSAPP](https://wa.me/+254782662427)
+  BRAYO -   [WHATSAPP](https://wa.me/+254768301278)
 
 
 
@@ -54,7 +54,7 @@ Alternatively, pair locally using the repo [Here](https://replit.com/@khoolkheed
 <p align="center"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 #### 2. Deploy Now.
-<p align="center"><a href="https://dashboard.heroku.com/new-app?template=https://github.com/T-code-bit/TRIBAL"> <img src="https://img.shields.io/badge/Heroku%20Deploy-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new-app?template=https://github.com/juxmiz/MX-WRLD"> <img src="https://img.shields.io/badge/Heroku%20Deploy-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
     
 
@@ -62,7 +62,7 @@ Alternatively, pair locally using the repo [Here](https://replit.com/@khoolkheed
     
 <h2 align="center">   
 
- Fork this repo by tapping  [here](https://github.com/T-code-bit/TRIBAL/fork)
+ Fork this repo by tapping  [here](https://github.com/juxmiz/TlMX-WRLD/fork)
 
 
  Upload the creds.json that you received to the dreaded1 folder.
@@ -79,22 +79,22 @@ Alternatively, pair locally using the repo [Here](https://replit.com/@khoolkheed
 
 
 
-Incase of any issues, contact me via [WHATSAPP](https://wa.me/+254782662427) or via [EMAIL](khoolkheed@gmail.com).
+Incase of any issues, contact me via [WHATSAPP](https://wa.me/+254768301278) or via [EMAIL](maxwrld8@gmail.com).
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
 
 ## License
 
-[MIT License](https://github.com/T-code-bit/TRIBAL/blob/main/LICENSE)
+[MIT License](https://github.com/juxmiz/MX-WRLD/blob/main/LICENSE)
 
-Copyright (©) 2024 TRIBAL TECH HUB
+Copyright (©) 2024 𝑴𝒂𝑿𝒘𝒓𝒍𝒅🌎 𝑴𝒆𝒎𝒆𝒔
 
-Proudly made in Kenya by 🇰🇪 ༒BRAYO™༒*
+Proudly made in Kenya by 🇰🇪𝑴𝒂𝑿𝒘𝒓𝒍𝒅🌎 𝒎𝒆𝒎𝒆𝒔 𝑲𝒊𝒏𝒈
 
 Location - Nairobi,Kenya
 
 Postal Address - Jomo Kenyatta Avenue 10800
 
-𝑆𝑚𝑖𝑙𝑒 𝑦𝑜𝑢 𝑑𝑜𝑛𝑡 𝑜𝑤𝑛 𝑎𝑙𝑙 𝑡ℎ𝑒 𝑝𝑟𝑜𝑏𝑙𝑒𝑚
+𝑨𝒕𝒕𝒓𝒊𝒃𝒖𝒕𝒆 𝒕𝒐 𝒕𝒉𝒆 𝑳𝒆𝒈𝒆𝒏𝒅 𝑱𝒖𝒊𝒄𝒆 𝑾𝒓𝒍𝒅🌎 999 ,𝒅𝒐 𝒘𝒉𝒂𝒕𝒆𝒗𝒆𝒓 𝒕𝒉𝒆 𝒇**𝒌 𝒚𝒐𝒖 𝒘𝒂𝒏𝒏𝒂 𝒅𝒐 ,𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈 𝒊𝒔 𝒑𝒐𝒔𝒔𝒊𝒃𝒍𝒆
 
