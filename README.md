@@ -1,13 +1,13 @@
 # 𝑇𝑅𝛪𝐵𝛥𝐿
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=880&height=100&lines=LONG LIVE+THE CLAN+TRIBAL;MULTI+-+DEVICE+WHATSAPP+BOT;CREATED+BY+~༒BRAYO™༒*;RELEASED+BY+~༒BRAYO™༒*; ...;TEAM TRIBAL." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=880&height=100&lines=LONG LIVE+𝑴𝑨𝒙𝒘𝒓𝒍𝒅🌎+𝑴𝑿-𝑾𝑹𝑳𝑫;MULTI+-+DEVICE+WHATSAPP+BOT;CREATED+BY+𝑴𝒂𝑿𝒘𝒓𝒍𝒅🌍;RELEASED+BY+𝑴𝒂𝑿𝒘𝒓𝒍𝒅🌎*; ...;𝑻𝑬𝑨𝑴 𝑴𝑨𝑿𝑾𝑹𝑳𝑫." alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
-<img src="https://i.imgur.com/R9Fva2U.jpeg" width="500" height="650"/>
+<img src="https://telegra.ph/file/19babec8cabf8b877ed34.jpg" width="500" height="650"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=orange&center=true&vCenter=true&multiline=false&lines=𝐓𝐑𝐈𝐁𝐀𝐋+𝐓𝐄𝐂𝐇+𝐇𝐔𝐁+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=orange&center=true&vCenter=true&multiline=false&lines=𝑴𝒂𝑿𝒘𝒓𝒍𝒅+𝑴𝒆𝒎𝒆𝒔+𝑲𝒆𝒏𝒚𝒂+WHATSAPP+BOT" alt="">
 
   </p>
 <p align="center">
