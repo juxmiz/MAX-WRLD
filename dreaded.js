@@ -48,7 +48,7 @@ const Heroku = require("heroku-client");
 const gptdm = process.env.GPT_INBOX || 'TRUE';
     const cmd = body.startsWith(prefix);
 //const autobio = process.env.AUTOBIO || 'TRUE';
-const botname = process.env.BOTNAME || 'TRIBAL AI';
+const botname = process.env.BOTNAME || '𝑴𝑿-𝑾𝑹𝑳𝑫 𝑨𝑰';
 const antibot = process.env.ANTIBOT || 'FALSE';
   
     const command = body.replace(prefix, "").trim().split(/ +/).shift().toLowerCase();
@@ -80,9 +80,9 @@ const antibot = process.env.ANTIBOT || 'FALSE';
     };
     const mime = (quoted.msg || quoted).mimetype || "";
             const qmsg = (quoted.msg || quoted);
-    const author = process.env.STICKER_AUTHOR ||'༒BRAYO™༒';
-    const packname = process.env.STICKER_PACKNAME || 'tribal';
-const dev = process.env.DEV || '254782662427'
+    const author = process.env.STICKER_AUTHOR ||'𝑴𝒂𝑿𝒘𝒓𝒍𝒅🌎';
+    const packname = process.env.STICKER_PACKNAME || '𝑴𝑿-𝑾𝒓𝒍𝒅';
+const dev = process.env.DEV || '254768301278'
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
  const DevDreaded = dev.split(",");
@@ -101,7 +101,7 @@ const menu = process.env.MENU_TYPE || 'VIDEO';
 const admin = process.env.ADMIN_MSG || '𝐅𝐚𝐢𝐥𝐮𝐫𝐞!, 𝐘𝐨𝐮 𝐚𝐫𝐞 𝐭𝐨𝐨 𝐲𝐨𝐮𝐧𝐠 𝐭𝐨 𝐝𝐨 𝐭𝐡𝐚𝐭';
     const group = process.env.GROUP_ONLY_MSG || 'Is this a group chat?';
     const botAdmin = process.env.BOT_ADMIN_MSG || '𝐅**𝐤 𝐲𝐨𝐮! 𝐚𝐦 𝐚𝐧 𝐧𝐨𝐭 𝐚𝐧 𝐚𝐝𝐦𝐢𝐧'
-    const NotOwner = process.env.NOT_OWNER_MSG || 'Lol you are not ༒BRAYO™༒';
+    const NotOwner = process.env.NOT_OWNER_MSG || 'Lol you are not 𝑴𝒂𝑿𝒘𝒓𝒍𝒅🌎';
 const wapresence = process.env.WA_PRESENCE || 'recording';
 const antilink = process.env.ANTILINK || 'TRUE';
 const antilinkall = process.env.ANTILINK_ALL || 'FALSE';
@@ -168,7 +168,7 @@ function _0x11cc() {
         'split',
         '84AXXWgJ',
         '4435424UJQIXb',
-        'y\x20TRIBAL\x20',
+        'y\x20𝑴𝑿-𝑾𝑹𝑳𝑫\x20',
         'TRUE',
         'tibot:\x0a\x0a@',
         '\x20as\x20a\x20bot.',
@@ -191,7 +191,7 @@ function _0x11cc() {
         '184473FwtnYZ',
         '18szWhmE',
         'startsWith',
-        'TRIBAL-AI\x20an',
+        '𝑴𝑿-𝑾𝑹𝑳𝑫-AI\x20an',
         '376590puyzhN',
         'key'
     ];
