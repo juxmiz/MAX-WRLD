@@ -299,7 +299,7 @@ if (badwordkick === 'TRUE' && isBotAdmin && !isAdmin && body && (new RegExp('\\b
                    participant: kid 
                 } 
              }).then(() => client.groupParticipantsUpdate(m.chat, [kid], 'remove')); 
- client.sendMessage(m.chat, {text:`Adiós:\n\n@${kid.split("@")[0]}, sending group links is prohibited here! Go try else where kindly`, contextInfo:{mentionedJid:[kid]}}, {quoted:m}); 
+ client.sendMessage(m.chat, {text:`Adiós:\n\n@${kid.split("@")[0]}, 𝑹𝒆𝒎𝒐𝒗𝒆𝒅 𝒃𝒚 𝑴𝑿-𝑾𝑹𝑳𝑫 𝒑𝒆𝒍𝒆𝒌𝒂 𝒖𝒋𝒊𝒏𝒈𝒂 𝒌𝒘𝒂 𝒈𝒓𝒐𝒖𝒑 𝒊𝒏𝒈𝒊𝒏𝒆`, contextInfo:{mentionedJid:[kid]}}, {quoted:m}); 
        }   
 
 if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !Owner && isBotAdmin && !isAdmin && m.isGroup) { 
@@ -315,14 +315,14 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
                    participant: ki
                 } 
              }).then(() => client.groupParticipantsUpdate(m.chat, [ki], 'remove')); 
- client.sendMessage(m.chat, {text:`Auf wiedersehen:\n\n@${ki.split("@")[0]}, sending links is prohibited in this group! Go try elsewhere kindly`, contextInfo:{mentionedJid:[ki]}}, {quoted:m}); 
+ client.sendMessage(m.chat, {text:`Auf wiedersehen:\n\n@${ki.split("@")[0]}, 𝑹𝒆𝒎𝒐𝒗𝒆𝒅 𝒃𝒚 𝑴𝑿-𝑾𝑹𝑳𝑫 𝒑𝒆𝒍𝒆𝒌𝒂 𝒖𝒋𝒊𝒏𝒈𝒂 𝒌𝒘𝒂 𝒈𝒓𝒐𝒖𝒑 𝒊𝒏𝒈𝒊𝒏𝒆`, contextInfo:{mentionedJid:[ki]}}, {quoted:m}); 
        }   
   
   
   
 
     if (cmd && !m.isGroup) {
-      console.log(chalk.black(chalk.bgWhite("[ TRIBAL-AI ]")), color(argsLog, "turquoise"), chalk.magenta("From"), chalk.green(pushname), chalk.yellow(`[ ${m.sender.replace("@s.whatsapp.net", "")} ]`));
+      console.log(chalk.black(chalk.bgWhite("[ 𝑴𝑿-𝑾𝑹𝑳𝑫 𝑨𝑰 ]")), color(argsLog, "turquoise"), chalk.magenta("From"), chalk.green(pushname), chalk.yellow(`[ ${m.sender.replace("@s.whatsapp.net", "")} ]`));
     } else if (cmd && m.isGroup) {
       console.log(
         chalk.black(chalk.bgWhite("[ LOGS ]")),
@@ -339,35 +339,35 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
       case "help":
         case "menu":
-let cap = `╭════〘 *_★𝐓𝐑𝐈𝐁𝐀𝐋 𝐓𝐄𝐂𝐇 𝐇𝐔𝐁★_* 〙═⊷★★
+let cap = `╭════〘 *_🌎𝑴𝑿-𝑾𝑹𝑳𝑫 𝑨𝑰🌎_* 〙═⊷★★
 ┃✯╭────────────°★★★★★¥¥¥¥¥¥¥★★★★★°
-┃✯│ *_★𝐎𝐰𝐧𝐞𝐫 : ༒BRAYO™༒_*
+┃✯│ *_★𝐎𝐰𝐧𝐞𝐫 :𝑴𝒂𝑿𝒘𝒓𝒍𝒅🌎 𝑴𝒆𝒎𝒆𝒔
 ┃✯│ *_★𝐔𝐬𝐞𝐫 : ${m.pushName}_*
 ┃✯│ *_★𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 : 𝐋𝐢𝐧𝐮𝐱_*
 ┃✯│ *_★𝐒𝐩𝐞𝐞𝐝 : ${dreadedspeed.toFixed(4)} 𝐦𝐬_*
 ┃✯│ *_★𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐑𝐀𝐌 : 𝟑𝟒𝐆𝐁 𝐨𝐟 𝟔𝟐𝐆𝐁_*
 ┃✯│ *_★𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : ${runtime(process.uptime())}_*
 ┃✯│ *_★𝐕𝐞𝐫𝐬𝐢𝐨𝐧: 𝐯𝟔.𝟎.9_*
-┃✯│ *_★𝐓𝐑𝐈𝐁𝐀𝐋 𝐓𝐄𝐂𝐇 𝐇𝐔𝐁★_*
-┃✯│  *_★𝐓𝐑𝐈𝐁𝐀𝐋 𝐁𝐎𝐓 𝟐𝟎𝟐𝟒™★_*
+┃✯│ 
+┃✯│  *_★𝑴𝑿-𝑾𝑹𝑳𝑫 𝑨𝑰★_*
 ┃✯│     ▎▍▌▌▉▏▎▌▉▐▏▌
 ┃✯│     ▎▍▌▌▉▏▎▌▉▐▏▌
-┃✯│   *_★𝐓𝐑𝐈𝐁𝐀𝐋 𝐁𝐎𝐓★_*
-┃✯│      *_★𝟐𝟎𝟐𝟒™★_*
+┃✯│   𝑩𝒀 𝑴𝒂𝑿𝒘𝒓𝒍𝒅🌎𝒎𝒆𝒎𝒆𝒔 
+┃✯│     
 ┃╰─────★★★★★★★★★★★★★
 ╰─────────────────★★★★
 ╭══〘 *_★𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐌𝐄𝐍𝐔★_* 〙══⊷★★
 ▯╭────────────···▸★★★
 ┴✯│ *_★𝟐𝟎𝟐𝟒™★_*
-┃✯│ *_®𝐕𝐢𝐝𝐞𝐨®_*
-┃✯│ *_®𝐏𝐥𝐚𝐲®_*
-┃✯│ *_®𝐌𝐨𝐯𝐢𝐞®_*
-┃✯│ *_®𝐋𝐲𝐫𝐢𝐜𝐬®_*
-┃✯│ *_®𝐖𝐡𝐚𝐭𝐬𝐨𝐧𝐠®_*
-┃✯│ *_®𝐘𝐭𝐬®_*
-┃✯│ *_®𝐘𝐭𝐦𝐩𝟑®_*
-┃✯│ *_®𝐘𝐭𝐦𝐩𝟒®_*
-┬✯│ *_★𝐓𝐑𝐈𝐁𝐀𝐋★_*
+┃✯│ *_𝐕𝐢𝐝𝐞𝐨_*
+┃✯│ *_𝐏𝐥𝐚𝐲_*
+┃✯│ *_𝐌𝐨𝐯𝐢𝐞_*
+┃✯│ *_𝐋𝐲𝐫𝐢𝐜𝐬_*
+┃✯│ *_𝐖𝐡𝐚𝐭𝐬𝐨𝐧𝐠_*
+┃✯│ *_𝐘𝐭𝐬_*
+┃✯│ *_𝐘𝐭𝐦𝐩𝟑_*
+┃✯│ *_𝐘𝐭𝐦𝐩𝟒_*
+┬✯│ *_★999★_*
 │╰────────────────★★
 ╰════════════════⊷★★
 ╭═════〘 *_★𝐄𝐃𝐈𝐓 𝐌𝐄𝐍𝐔★_* 〙════⊷★★
