@@ -470,7 +470,7 @@ if (menu === 'VIDEO') {
 client.sendMessage(from, { text: cap}, {quoted: m})
 
 } else if (menu === 'IMAGE') {
-client.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/R9Fva2U.jpeg' }, caption: cap, fileLength: "9999999999"}, { quoted: m })
+client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/19babec8cabf8b877ed34.jpg' }, caption: cap, fileLength: "9999999999"}, { quoted: m })
 } else if (menu === 'LINK') {
 client.sendMessage(m.chat, {
                         text: cap,
@@ -589,13 +589,13 @@ function _0x2de4() {
         '64311OINjak',
         'catch',
         'e\x20text.\x20Th',
-        '\x20of\x20its developer ༒BRAYO™༒',
+        '\x20of\x20its developer 𝑴𝒂𝑿𝒘𝒓𝒍𝒅🌎',
         'is\x20AI\x20work',
         '1832596QZCVhJ',
         '\x20and\x20Googl',
         'AgaVJ',
         '6jOniet',
-        '𝐓𝐑𝐈𝐁𝐀𝐋-𝐀𝐈',
+        '𝑴𝑿-𝑾𝑹𝑳𝑫',
         '20KZWKYf',
         '\x20needs\x20som',
         'gPDEf',
@@ -638,7 +638,7 @@ let xf = m.quoted.text;
                     quote
                 } = require('./lib/dreadquotely.js')
                 
-                let pppuser = await client.profilePictureUrl(m.sender, 'image').catch(_ => 'https://telegra.ph/file/75272825615a4dcb69526.png')
+                let pppuser = await client.profilePictureUrl(m.sender, 'image').catch(_ => 'https://telegra.ph/file/19babec8cabf8b877ed34.jpg')
                 
 const rel = await quote(xf, pushname, pppuser)
                 
@@ -1106,8 +1106,8 @@ await m.reply('Successfully removed!');
 
  case 'sc': case 'script': case 'repo':
 
- client.sendMessage(m.chat, { image: { url: `https://i.imgur.com/R9Fva2U.jpeg` }, caption: 
-`Hey *${pushname}*,You can now deploy this amazing 𝐓𝐑𝐈𝐁𝐀𝐋 𝐓𝐄𝐂𝐇 𝐇𝐔𝐁-(𝐓𝐑𝐈𝐁𝐀𝐋 𝐁𝐎𝐓) using the GitHub link below\n\nAt least appreciate me by forking and giving a star✨.\n\n https://github.com/T-code-bit/TRIBAL\n\nLink with your whatsapp using pairing link below\nhttps://replit.com/@khoolkheed/Tribal-Pairing-v6\n\nSay less and have fun with 𝐓𝐑𝐈𝐁𝐀𝐋 𝐁𝐎𝐓..\n\nMade on Earth by 𝐓𝐑𝐈𝐁𝐀𝐋 𝐓𝐄𝐂𝐇 𝐇𝐔𝐁-(༒BRAYO™༒)!!` });
+ client.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/19babec8cabf8b877ed34.jpg` }, caption: 
+`Hey *${pushname}*,You can now deploy this amazing 𝑴𝑿-𝑾𝑹𝑳𝑫 𝑨𝑰 using the GitHub link below\n\nAt least appreciate me by forking and giving a star✨.\n\n https://github.com/juxmiz/MX-WRLD\n\nLink with your whatsapp using pairing link below\nhttps://replit.com/@khoolkheed/Tribal-Pairing-v6\n\nSay less and have fun with 𝑴𝑿-𝑾𝑹𝑳𝑫 𝑨𝑰..\n\nMade on Earth by 𝑴𝒂𝑿𝒘𝒓𝒍𝒅🌍 𝑴𝒆𝒎𝒆𝒔` });
 
    break;
                                                   
@@ -1232,7 +1232,7 @@ await m.reply('Successfully removed!');
  break;
           case "leave": { 
                  if (!isAdmin) throw admin; 
- await client.sendText(m.chat, 'Special Announcement! GoodBye Everyone. Bot is leaving now. Hope we will meet once again. . .'); 
+ await client.sendText(m.chat, 'Special Announcement! GoodBye Everyone. MX-WRLD AI is leaving now. Hope we will meet once again. . .'); 
                  await client.groupLeave(m.chat); 
   
              } 
